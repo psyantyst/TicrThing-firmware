@@ -1,0 +1,28 @@
+{
+    "name": "TicrThing M5",
+
+    "description": "Monitor the exchange rates between crypto and national currencies. The TicrThing periodically fetches the latest BTC/USD price and displays it on the screen. To configure other crypto pairs, check out the User Guide at www.ticrthing.com",
+
+    "keywords": "TicrThing, Bitcoin, crypto, ticker",
+
+    "author": "TicrTech",
+
+    "repository": "https://github.com/psyantyst/TicrThing-firmware",
+
+    "firmware_category": 
+        {            
+			// Firmware path
+			"path": "firmware",
+
+			// Applicable Devices
+			"device": ["M5Stack Core"],
+
+			// Default baudrate
+			"default_baud": 921600
+            
+        },
+        
+    "version": "0.6.1",
+
+    "framework": "Arduino IDE"
+}
