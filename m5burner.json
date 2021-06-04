@@ -1,5 +1,5 @@
 {
-    "name": "TicrThing M5",
+    "name": "TicrThing",
 
     "description": "Monitor the exchange rates between crypto and national currencies. The TicrThing periodically fetches the latest BTC/USD price and displays it on the screen. To configure other crypto pairs, check out the User Guide at www.ticrthing.com",
 
